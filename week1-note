@@ -1,5 +1,7 @@
-Day 1
-first time in creating tryhackme account i was introduce to what offensive security is which is finding the weakness before hacker does
-I understand how to find and hidden pages in a sites using "dirb" command and hack the admin page
+Day 1 (Offensive Attack)
+first time in creating tryhackme account i was introduce to what offensive security is which is simulating attack in finding the weakness before hacker does
+I understand how to find and hidden pages in a sites using "dirb" command and hack the admin page. when i research further i discvered that there more approach than
+the "dirb" such "fuff" and more
 
-Day 2
+Day 2 (Defensive Attack)
+I was walk through defensive attack which is the way of stopping or blocking and attacker in a system 
